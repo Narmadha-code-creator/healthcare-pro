@@ -1,0 +1,37 @@
+# 🏥 AI-Powered Predictive Healthcare System
+
+## 📌 Overview
+This is a full-stack healthcare web application that predicts health risks based on user input. It uses React for frontend, Node.js for backend, and PostgreSQL for database with JWT authentication.
+
+---
+
+## 🚀 Features
+- 🔐 User Login & Authentication (JWT)
+- 🧠 Health Risk Prediction
+- 📊 Data stored in PostgreSQL
+- 🌐 Full-stack architecture
+- ⚡ Real-time API communication
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js
+- Axios
+- CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- PostgreSQL
+
+**Authentication**
+- JWT
+- bcryptjs
+
+---
+
+## 📁 Project Structure
